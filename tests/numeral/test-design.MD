@@ -5,7 +5,7 @@
 
 ## Boundary Value condition
     1.Min case. 1 | I
-    2.Max case. 3,888 | MMMDCCCLXXXVIII
+    2.Max case. 3,999 | MMMCMXCIX
 
 ## 1st approach
 ### Addition case

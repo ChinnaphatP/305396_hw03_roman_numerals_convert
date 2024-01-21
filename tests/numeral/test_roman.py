@@ -25,7 +25,7 @@ from Numerals.roman import to_roman
         (2, "II"),
         (3, "III"),
         (6, "VI"),
-        (8, "VII"),
+        (8, "VIII"),
         
         # Subtraction case
         (4, "IV"),
